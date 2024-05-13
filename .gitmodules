@@ -12,3 +12,7 @@
 	path = ABC-Strategie-GitHub/abc_x_reitano
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_reitano.git
 	branch = main
+[submodule "ABC-Strategie/OM_base_l10n-italy"]
+	path = ABC-Strategie/OM_base_l10n-italy
+	url = git@github.com:ABC-Strategie/OM_base_l10n-italy.git
+	branch = 14.0
