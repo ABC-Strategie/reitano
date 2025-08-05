@@ -6,7 +6,7 @@
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
-	branch = 18.0
+	branch = cellaro-18.0
 
 [submodule "ABC-Strategie-GitHub/abc_x_reitano"]
 	path = ABC-Strategie-GitHub/abc_x_reitano
